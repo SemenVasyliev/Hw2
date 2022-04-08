@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hw2.Exercise3.Test": {
+      "commandName": "Project",
+      "commandLineArgs": "echo test cli app"
+    }
+  }
+}
